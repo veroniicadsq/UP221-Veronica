@@ -1,6 +1,6 @@
 # UP221-Veronica
 ## Description
- Hello, my name is Veronica De Santos, a student in the UP221 Introduction to GIS and Spatial Data Science class where I learn about how to manage data in order to create maps. 
+ Hello, my name is Veronica De Santos, a student in the UP221 Introduction to GIS and Spatial Data Science class where I learn about how to manage data in order to create maps. I'm a MURP student with a concentration in TPP.
 ## Project Idea
 My project idea is sidewalk gaps in Azusa, California or another high-immigrant population city in Los Angeles County.
 ## Objective for the class
