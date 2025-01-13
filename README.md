@@ -1,4 +1,4 @@
-# vdesantos_up221
+# UP221-Veronica
 ## Description
  Hello, my name is Veronica De Santos, a student in the UP221 Introduction to GIS and Spatial Data Science class where I learn about how to manage data in order to create maps. 
 ## Project Idea
